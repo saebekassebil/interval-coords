@@ -1,0 +1,26 @@
+{
+  "name": "interval-coords",
+  "version": "1.0.0",
+  "description": "Transform simple format intervals to coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saebekassebil/interval-coords.git"
+  },
+  "keywords": [
+    "interval",
+    "coord",
+    "coordinate",
+    "music",
+    "theory"
+  ],
+  "author": "Jakob Miland <saebekassebil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saebekassebil/interval-coords/issues"
+  },
+  "homepage": "https://github.com/saebekassebil/interval-coords#readme"
+}
