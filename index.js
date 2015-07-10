@@ -40,7 +40,7 @@ module.exports = function(simple) {
 
   return [
     sign * (base[0] + octaves + sharp[0] * alt),
-    sign * (base[1] + sharp[1] * alt) 
+    sign * (base[1] + sharp[1] * alt)
   ];
 }
 
